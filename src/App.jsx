@@ -12,7 +12,7 @@ const App = () => {
         <p className="title">Arooj & Nabeel</p>
       </div>
       <div className="gameInstr">
-        Note: Press &quot;s&quot; or &quot;S&quot; to select the alphabet.
+        Note: Select GamePlay Area and press &quot;s&quot; or &quot;S&quot; to select the alphabet.<br/>
       </div>
       <GameplayArea />
       </div>
