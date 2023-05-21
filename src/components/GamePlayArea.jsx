@@ -87,6 +87,9 @@ const GameplayArea = () => {
       {dropping && (
         <div className="circle">{circleLetter}</div>
         )}
+      {gameOver && (
+        <div className="game-over">Game Over</div>
+    )}  
     </div>
     <div className="scoreboard">
       <div className="word-array">
@@ -98,9 +101,6 @@ const GameplayArea = () => {
       <p>{score}</p>
       </div>
     </div>
-    {gameOver && (
-        <div className="game-over">Game Over</div>
-    )}
     </>
   );
 };

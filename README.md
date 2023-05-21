@@ -80,7 +80,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo]()
+- [Live Demo](https://klax-game.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +98,7 @@ Browser
 
 ### Setup
 
-git clone 
+git clone https://github.com/Metaverse-Nabeel/KLAX-Game.git
 
 cd Math-Magicians
 
