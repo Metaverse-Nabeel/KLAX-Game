@@ -129,6 +129,10 @@ npm run build
 - LinkedIn: [@Nabeel129](https://www.linkedin.com/in/nabeel129/)
 - Wellfound(AngelList): [@Nabeel129](https://wellfound.com/u/nabeel-ahmed-62)
 
+👤 **Arooj Munawar**
+- GitHub: [@AroojMunawar](https://github.com/aroojmunawar)
+- LinkedIn: [@AroojMunawar](https://www.linkedin.com/in/arooj-munawar-b1b7b0177/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
