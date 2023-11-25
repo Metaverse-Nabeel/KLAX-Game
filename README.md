@@ -100,7 +100,7 @@ Browser
 
 git clone https://github.com/Metaverse-Nabeel/KLAX-Game.git
 
-cd Math-Magicians
+cd KLAX-Game
 
 ### Install
 
